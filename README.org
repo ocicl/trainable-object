@@ -1,0 +1,10 @@
+* trainable-object
+
+Provides an metaclass and APIs for the trainable funcallable instances. (WIP)
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/guicho271828/trainable-object.git   |
+| commit  | 49821f3  |
+| systems | trainable-object |
+|---------+-------------------------------------------|
+
